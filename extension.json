@@ -1,0 +1,13 @@
+{
+  "name": "SHARP mLCD SPI interpreter",
+  "apiVersion": "1.0.0",
+  "author": "Zac Adam-MacEwen",
+  "version": "1.0.0",
+  "description": "A stateful interpreter for interpreting SPI commands to a Sharp Memory LCD and creating image files based upon them.",
+  "extensions": {
+    "SHARP mLCD SPI interpreter": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
